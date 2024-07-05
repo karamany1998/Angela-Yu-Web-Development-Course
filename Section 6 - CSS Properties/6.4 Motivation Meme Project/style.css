@@ -1,0 +1,38 @@
+
+html{
+    background-color: black;
+}
+
+#main_text
+{
+    font-family: "Libre Baskerville", serif;
+    font-weight: 400;
+    font-style: normal;
+    
+    
+    color:white;
+    background-color: black;
+    width:50%;
+    margin-left: 25%;
+    text-transform: uppercase;
+  
+}
+
+
+#image
+{
+    height:200px;
+    border: 5px solid white;
+    width:50%;
+    margin-left: 25%;
+    
+
+}
+
+#paragraph
+{
+    color : white;
+    width:50%;
+    margin-left: 25%;
+}
+
